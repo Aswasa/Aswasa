@@ -2,6 +2,7 @@
 <h3 align="center">I'm a 15 year old learning to code</h3>
 
 
+<img src="https://github.com/Aswasa/aswasa/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aswasa&compat=true&theme=dark)
