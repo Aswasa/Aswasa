@@ -5,6 +5,8 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aswasa&compat=true&theme=dracula)
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswasa&show_icons=true&theme=dark&locale=en" alt="aswasa" /></p>
