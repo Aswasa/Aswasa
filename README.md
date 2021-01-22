@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=aswasa&compat=true&theme=dracula)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aswasa&compat=true&theme=dracula)
 
 
 
