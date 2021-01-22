@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswasa&label=views&color=0e75b6&style=flat-square" alt="aswasa" /> </p>
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
