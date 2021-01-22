@@ -2,10 +2,9 @@
 <h3 align="center">I'm a 15 year old learning to code</h3>
 
 
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aswasa&compat=true&theme=dracula)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Aswasa&compat=true&theme=dark)
 
 
 
