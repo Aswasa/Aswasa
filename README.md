@@ -4,8 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-aswasa)
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <img src="https://github.com/<Aswasa>/<aswasa>/blob/master/images/codeStats.svg" alt=""/>
 
