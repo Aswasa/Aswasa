@@ -6,7 +6,7 @@
 
 
 
-<img src="https://github.com/<Aswasa>/<aswasa>/blob/<master>/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/Aswasa/aswasa/blob/master/images/stat.svg" alt="WakaTime Activity"/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswasa&show_icons=true&theme=dark&locale=en" alt="aswasa" /></p>
 
