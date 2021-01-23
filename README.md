@@ -2,7 +2,7 @@
 <h3 align="center">I'm a 15 year old learning to code</h3>
 my discord Aswasa アスワサ
 
-<img src="https://github.com/Aswasa/aswasa/blob/main/images/stat.svg" \>
+<img src="https://github.com/Aswasa/aswasa/blob/main/images/stat.svg">
 
 
 
