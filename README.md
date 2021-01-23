@@ -53,13 +53,3 @@ C++                      2 repos             ████████░░░�
 
 
 <!--END_SECTION:waka-->
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswasa&show_icons=true&theme=dark&locale=en" alt="aswasa" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aswasa&theme=dark" alt="aswasa" /></p>
-
