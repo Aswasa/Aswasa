@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">I'm a 15 year old learning to code</h3>
-my discord Aswasa アスワサ
-
-<img src="https://github.com/Aswasa/aswasa/blob/main/images/stat.svg">
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
