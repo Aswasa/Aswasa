@@ -7,6 +7,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<img src="https://github.com/<Aswasa>/<aswasa>/blob/master/images/codeStats.svg" alt=""/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswasa&show_icons=true&theme=dark&locale=en" alt="aswasa" /></p>
 
