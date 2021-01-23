@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">I'm a 15 year old learning to code</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-aswasa)
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-320-blue)
 
