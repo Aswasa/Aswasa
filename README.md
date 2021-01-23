@@ -4,7 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=your-github-aswasa)
 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aswasa&show_icons=true&theme=dark&locale=en" alt="aswasa" /></p>
