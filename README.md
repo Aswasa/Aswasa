@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 <h3 align="center">I'm a 15 year old learning to code</h3>
 <!--START_SECTION:waka-->
+<img src="https://github.com/aswasa/aswasa/blob/master/codeStats.svg" alt="My Coding Activity/>
+
 <!--END_SECTION:waka-->
 
 
