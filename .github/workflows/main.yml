@@ -3,7 +3,7 @@ name: Update README with my latest coding stats
 
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
     - cron: '30 5 * * *' 
 
