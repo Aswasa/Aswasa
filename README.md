@@ -2,15 +2,15 @@
 <h3 align="center">I'm a 15 year old learning to code</h3>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-540-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-542-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2051%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 160 Contributions in the Year 2021
+> 🏆 161 Contributions in the Year 2021
  > 
-> 📦 768 Bytes Used in Github's Storage 
+> 📦 771 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
