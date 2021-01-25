@@ -4,19 +4,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-542-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2051%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-628%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 161 Contributions in the Year 2021
+> 🏆 157 Contributions in the Year 2021
  > 
-> 📦 773 Bytes Used in Github's Storage 
+> 📦 763 Bytes Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -41,8 +41,9 @@ Linux                    2 hrs 9 mins        ███████████�
 **I Mostly Code in Rust** 
 
 ```text
-Rust                     4 repos             ████████████████░░░░░░░░░   66.67% 
-C++                      2 repos             ████████░░░░░░░░░░░░░░░░░   33.33%
+Rust                     3 repos             ████████████░░░░░░░░░░░░░   50.0% 
+C++                      2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Makefile                 1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
 
