@@ -2,7 +2,7 @@
 <h3 align="center">I'm a 15 year old learning to code</h3>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-542-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-629%20lines%20of%20code-blue)
 
@@ -24,17 +24,13 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Rust                     1 hr 44 mins        █████████████░░░░░░░░░░░░   53.35% 
-TOML                     53 mins             ██████░░░░░░░░░░░░░░░░░░░   27.22% 
-INI                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 15 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
